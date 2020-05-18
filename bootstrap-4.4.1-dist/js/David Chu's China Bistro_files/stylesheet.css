@@ -1,0 +1,15 @@
+body{
+	font-size: 60px;
+	
+	color: #fff;
+  background-color: #61122f;
+	font-family: 'oxygen', sans-serif;
+}
+
+
+#header-nav {
+  background-color: #f6b319;
+  border-radius: 0;
+  border: 0;
+}
+
